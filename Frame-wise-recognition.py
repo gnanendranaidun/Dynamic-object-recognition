@@ -1,15 +1,6 @@
 import cv2
 from ultralytics import YOLO
 import time
-
-# Initialize Pushbullet API
-# from pushbullet import Pushbullet
-# API_TOKEN = "o.wMCsInQzLIdhHo4E0j9iJREgTy0PAcES"
-# pb = Pushbullet(API_TOKEN)
-
-# Initialize camera
-
-
 # Load YOLO model
 model = YOLO("yolov8n.pt")
 
