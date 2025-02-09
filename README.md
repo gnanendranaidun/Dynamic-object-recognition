@@ -6,8 +6,6 @@ This project implements real-time object detection using YOLOv8 and OpenCV. It c
 ## Project Structure
 - `dynamic-recognition.py`: Runs real-time object detection and displays results on the screen.
 - `frame-wise-recognition.py`: Captures and saves processed frames with object detection results.
-- `result.jpg`: The latest processed image with detected objects.
-- `testimage.jpg`: A captured test frame from the video stream.
 
 ## Requirements
 ### Dependencies
